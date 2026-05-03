@@ -44,11 +44,11 @@ export function Footer() {
             <div className="space-y-2.5 text-sm text-slate-400">
               <div className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 mt-0.5 text-brand-400 shrink-0" />
-                <span>Jl. ......., Semarang</span>
+                <span>Jl. Gunung Pati, Semarang</span>
               </div>
               <div className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-brand-400 shrink-0" />
-                <span>+62 888888888888</span>
+                <span>+62 12345678</span>
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-brand-400 shrink-0" />
